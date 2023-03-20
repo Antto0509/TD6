@@ -13,6 +13,7 @@ int Oppose(int a)
     return -a;
 }
 
+Console.WriteLine("Bienvenue");
 Console.WriteLine(Somme(2, 3));
 Console.WriteLine(Produit(6, 8));
 Console.WriteLine(Oppose(-7));
